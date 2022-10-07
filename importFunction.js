@@ -1,0 +1,1 @@
+const Function = require("./exportFunction");
